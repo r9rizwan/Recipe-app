@@ -56,7 +56,6 @@ npm install
 ```
 
 3. **Install Shadcn UI components:**
-   _(If you are setting this up from scratch, ensure you have initialized Shadcn and added the required components)_
 
 ```bash
 npx shadcn-ui@latest add button card badge input skeleton
