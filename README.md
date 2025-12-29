@@ -1,8 +1,4 @@
-Certainly! Here is a clean, professional `README.md` file tailored to your project. It includes the concise description we discussed and covers the specific functionality and tech stack you've implemented.
-
----
-
-# 🍳 Recipe Explorer
+# Recipe Explorer
 
 A sleek, responsive **Recipe Management Dashboard** built with **React 18, TypeScript, and Tailwind CSS**.
 
